@@ -1,0 +1,254 @@
+{
+    "code": 200,
+    "status": "Ok",
+    "copyright": "© 2020 MARVEL",
+    "attributionText": "Data provided by Marvel. © 2020 MARVEL",
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2020 MARVEL</a>",
+    "etag": "88e9879837ee3a4ca1976deb2f9de1711c676479",
+    "data": {
+        "offset": 0,
+        "limit": 1,
+        "total": 645,
+        "count": 1,
+        "results": [
+            {
+                "id": 17466,
+                "digitalId": 0,
+                "title": "Marvel Masterworks: Captain America Vol. 2 (Hardcover)",
+                "issueNumber": 0,
+                "variantDescription": "",
+                "description": null,
+                "modified": "2017-08-17T10:43:48-0400",
+                "isbn": "0-7851-1785-7",
+                "upc": "",
+                "diamondCode": "",
+                "ean": "",
+                "issn": "",
+                "format": "Hardcover",
+                "pageCount": 0,
+                "textObjects": [],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/17466",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/collection/17466/marvel_masterworks_captain_america_vol_2_hardcover?utm_campaign=apiRef&utm_source=44743eae759760e2bb53ddfee2fc7f49"
+                    }
+                ],
+                "series": {
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/3298",
+                    "name": "Marvel Masterworks: Captain America Vol. 2 (0000 - Present)"
+                },
+                "variants": [],
+                "collections": [],
+                "collectedIssues": [
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7481",
+                        "name": "Captain America (1968) #100"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11338",
+                        "name": "Tales of Suspense (1959) #91"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11337",
+                        "name": "Tales of Suspense (1959) #90"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11335",
+                        "name": "Tales of Suspense (1959) #89"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11334",
+                        "name": "Tales of Suspense (1959) #88"
+                    },
+                    {
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11330",
+                        "name": "Tales of Suspense (1959) #84"
+                    }
+                ],
+                "dates": [
+                    {
+                        "type": "onsaleDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    },
+                    {
+                        "type": "focDate",
+                        "date": "-0001-11-30T00:00:00-0500"
+                    }
+                ],
+                "prices": [
+                    {
+                        "type": "printPrice",
+                        "price": 0
+                    }
+                ],
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/5995aafce934b",
+                    "extension": "jpg"
+                },
+                "images": [
+                    {
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/5995aafce934b",
+                        "extension": "jpg"
+                    }
+                ],
+                "creators": {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/17466/creators",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/962",
+                            "name": "Stan Goldberg",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+                            "name": "Jack Kirby",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                            "name": "Stan Lee",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1256",
+                            "name": "Syd Shores",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/13093",
+                            "name": "Art Simek",
+                            "role": "letterer"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "characters": {
+                    "available": 11,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/17466/characters",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                            "name": "Avengers"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009170",
+                            "name": "Baron Zemo (Heinrich Zemo)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                            "name": "Black Panther"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                            "name": "Captain America"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009320",
+                            "name": "Giant Man"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                            "name": "Iron Man"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009449",
+                            "name": "Mole Man"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009466",
+                            "name": "Namor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471",
+                            "name": "Nick Fury"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+                            "name": "Thor"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009707",
+                            "name": "Wasp"
+                        }
+                    ],
+                    "returned": 11
+                },
+                "stories": {
+                    "available": 12,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/17466/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11942",
+                            "name": "The Other Iron Man!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11943",
+                            "name": "The Super-Adaptoid!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11954",
+                            "name": "Beyond All Rescue!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11955",
+                            "name": "If Bucky Lives..!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11957",
+                            "name": "The Monstrous Menace of the Mysterious Melter!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11958",
+                            "name": "Back From the Dead!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11966",
+                            "name": "The Golden Ghost!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11967",
+                            "name": "...And Men Shall Call Him Traitor!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11969",
+                            "name": "The Uncanny Challenge of the Crusher!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/11970",
+                            "name": "The Last Defeat!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/17455",
+                            "name": "This Monster Unmasked",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/67668",
+                            "name": "MARVEL MASTERWORKS: CAPTAIN AMERICA VOL. 2 0 cover",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 12
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/17466/events",
+                    "items": [],
+                    "returned": 0
+                }
+            }
+        ]
+    }
+}
